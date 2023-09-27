@@ -29,14 +29,14 @@ body{
     font-family: 'Lato',sans-serif;
 }
 .color-primary{
-    color: #ff3d00;
+    color: #f59273;
 }
 .wrapper{
     position: relative;
     z-index: 1;
     width: 100vw;
     height: 100vh;
-    background-color: #ff3d00;
+    background-color: #f59273;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -80,10 +80,10 @@ body{
     padding: 20px;
 }
 .contact_logo{
-    color: #ff3d00;
+    color: #f59273;
 }
 .contact_heading{
-    color: #ff3d00;
+    color: #f59273;
     letter-spacing: 5px;
 }
 .contact_form{
@@ -95,14 +95,14 @@ body{
     width: 100%;
     margin-bottom: 15px;
     padding: 15px 20px;
-    background-color: #ff3d00;
+    background-color: #f59273;
     border: none;
     border-radius: 27px;
 }
 .contact_form button[type="submit"]{
     background-color: #fff;
-    border: 2px solid #ff3d00;
-    color: #ff3d00;
+    border: 2px solid #f59273;
+    color: #f59273;
     padding: 10px 20px;
     border-radius: 27px;
 }
